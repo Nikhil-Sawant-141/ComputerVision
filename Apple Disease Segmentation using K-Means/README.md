@@ -5,6 +5,7 @@
 Here we take an example of apples. Some common diseases of apple fruits are apple scab, apple rot, and apple blotch (Hartman, 2010). Apple scabs are gray or brown corky spots. Apple rot infections produce slightly sunken, circular brown or black spots that may be covered by a red halo. Apple blotch is a fungal disease and appears on the surface of the fruit as dark, irregular or lobed edges. With some image processing and some advanced image segmentation I was able to identify the disease type and visualize the disease segment.
 
 Programming Language :- Python
+
 Modules :- OpenCV
 
 Motivation :- "Adapted Approach for Fruit Disease Identification using Images"
