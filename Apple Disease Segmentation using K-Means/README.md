@@ -9,4 +9,5 @@ Programming Language :- Python
 Modules :- OpenCV
 
 Motivation :- "Adapted Approach for Fruit Disease Identification using Images"
+
 Link to the paper :- https://arxiv.org/ftp/arxiv/papers/1405/1405.4930.pdf
